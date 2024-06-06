@@ -1,0 +1,34 @@
+#left {
+    border: 1px solid black;
+}
+
+#right {
+    border: 3px dashed red;
+}
+
+.sides {
+    display: inline-block;
+    width: 50%;
+    background-color: antiquewhite;
+    
+}
+
+#leftP {
+    color: blueviolet;
+    font-weight: 900;
+}
+#rightP{
+    color: red; 
+    font-style: italic;
+}
+p{
+    font-size: 12px;
+}
+#sidesContainer{
+    width: 100%;
+    font-size: 0;
+}
+
+ol, ul{
+    margin-left:30px;
+}
